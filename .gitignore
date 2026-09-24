@@ -13,3 +13,12 @@ venv/
 *.mp3
 *.wav
 .DS_Store
+
+# added by commit-and-push-all
+*.pyd
+.eggs/
+target/
+node_modules/
+.cache/
+.wrangler/
+*.log
